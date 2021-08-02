@@ -1,5 +1,5 @@
 # Ecommerce Hamburgueria
-A aplicação é uma ecommerce de hamburgueria onde o usuário pode cadastrar seus tipos de produtos e produtos(com preços fotos e detalhes do produto). Na página prinicinpal do usuário final tem a home onde pode ser adicionado e removido ao carrinho itens desejados, trás também seus produtos e tipos de produtos. Na sua area administrativa pode ser cadastrado produtos e acompanhar suas vendas, usuários cadastrados, administradores cadastrados e etc.
+A aplicação é um ecommerce de hamburgueria onde o usuário pode cadastrar seus tipos de produtos e produtos(com preços fotos e detalhes do produto). Na página prinicinpal do usuário final tem a home onde pode ser adicionado e removido ao carrinho itens desejados, trás também seus produtos e tipos de produtos. Na sua area administrativa pode ser cadastrado produtos e acompanhar suas vendas, usuários cadastrados, administradores cadastrados e etc.
 
 # Tecnologias
 
